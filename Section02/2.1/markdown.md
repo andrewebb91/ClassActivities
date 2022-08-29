@@ -5,7 +5,7 @@
 - NFC
   - Cowboys
   - Ravens
-  -Rams
+  - Rams
 
 ### **_Champions Cowboys_**
 
